@@ -1,1 +1,1 @@
-{"base": "1553463", "parent": "debian/rolling/nao_command_msgs", "previous": "d9e2c32", "trim": "", "trimbase": ""}
+{"base": "1ef2f3e", "parent": "debian/humble/nao_command_msgs", "previous": "d277de2", "trim": "", "trimbase": ""}
